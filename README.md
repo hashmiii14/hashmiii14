@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Hashmi 👋
-### Full-Stack Developer & Software Engineering Student (B.Tech CSE '29)
+### Full-Stack Developer & Software Engineering Student 
 
 <div align="center">
 
@@ -16,18 +16,16 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science & Engineering undergraduate at **Jamia Hamdard, New Delhi** (Batch of 2029) and the founder of **[Kodeveil Software](https://www.kodeveil.in/)**. My passion lies in understanding how software systems work under the hood and engineering production-ready applications with modern web and mobile technologies.
+I am a Computer Science & Engineering undergraduate at **Jamia Hamdard, New Delhi** (Batch of 2029) . My passion lies in understanding how software systems work under the hood and engineering production-ready applications with modern web and mobile technologies.
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering at Jamia Hamdard, New Delhi (`CSE '29`). Alumnus of Syed Abid Husain Senior Secondary School, Jamia Millia Islamia.
 - 🚀 **Builder & Founder:** Designed, built, and shipped **18+ production web platforms**, SaaS prototypes, and e-commerce applications.
-- 🏆 **Hackathons & Recognition:** Shortlisted in **Smart India Hackathon (SIH 2026)** and competitor at **Hack JMI**.
 - 💡 **Core Principles:** Clean architecture, performance optimization (sub-second load times), daily Data Structures & Algorithms practice, and dependable full-stack engineering.
 
 ---
 
 ## ⚡ Current Focus
 
-- 🎙️ **RadiaFlow:** Architecting cross-platform low-latency live voice streaming, radio broadcasting, and real-time audio interaction pipelines.
 - 💼 **Kodeveil Software:** Leading client web engineering—shipping fast, SEO-optimized business websites and full-stack solutions.
 - 🧠 **Data Structures & Algorithms:** Rigorous daily problem-solving across core algorithmic paradigms (graphs, dynamic programming, trees).
 
